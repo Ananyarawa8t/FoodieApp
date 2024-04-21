@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Shakes</string>
+    <string name="shakes">Shakes</string>
+    <string name="SHAKES">SHAKES</string>
+    <string name="order_now">ORDER NOW</string>
+    <string name="food_apps_are_mobile_applications_that_allow_users_to_order_food_explore_menus_and_sometimes_even_track_deliveries_in_real_time_these_apps_often_partner_with_local_restaurants_cafes_or_food_establishments_to_provide_a_convenient_platform_for_users_to_browse_select_and_order_their_preferred_meals_a_simplified_registration_process_can_encourage_quick_sign_ups_which_is_beneficial_for_acquiring_new_customers_for_your_online_food_delivery_app_you_can_achieve_this_by_allowing_users_to_register_using_their_social_media_accounts_like_facebook_or_google_this_eliminates_the_need_to_fill_out_lengthy_forms_providing_a_quick_onboarding_experience_having_an_user_friendly_interface_is_also_an_d_more_visual_cues">Food apps are mobile applications that allow users to order food, explore menus, and sometimes even track deliveries in real-time. These apps often partner with local restaurants, cafes, or food establishments to provide a convenient platform for users to browse, select, and order their preferred meals.A simplified registration process can encourage quick sign-ups, which is beneficial for acquiring new customers for your online food delivery app. You can achieve this by allowing users to register using their social media accounts like Facebook or Google. This eliminates the need to fill out lengthy forms, providing a quick onboarding experience. Having an user-friendly interface is also an d more visual cues.</string>
+    <string name="about">About</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="desc_image1">desc image1</string>
+    <string name="desc_image2">desc image2</string>
+    <string name="desc_image3">desc image3</string>
+    <string name="desc_image4">Desc image4</string>
+    <string name="shakesgo">ShakesGo</string>
+    <string name="shakesg">ShakesGo</string>
+    <string name="order_your_favourite_shake">order your favourite shake!</string>
+    <string name="mainimage">mainimage</string>
+    <string name="tasty_shake">Tasty Shake</string>
+    <string name="at_your_doorstep">at your doorstep!</string>
+    <string name="select_your_favorite_shakes_according_to_your_taste_and_we_will_dilever_them_to_you_in_no_time_treat_yourself_to_a_tropical_escape_with_our_exotic_mango_shake_elevate_your_shake_game_with_our_customizable_options">Select Your Favorite shakes according to your taste and we will dilever them to you in no time. Treat yourself to a tropical escape with our exotic mango shake.Elevate your shake game with our customizable options .</string>
+    <string name="desc_of_image1">Desc of image1</string>
+    <string name="rs_199">Rs.199</string>
+    <string name="desc_of_image2">Desc of image2</string>
+    <string name="desc_of_image3">Desc of image3</string>
+    <string name="desc_of_image4">Desc of image4</string>
+    <string name="vanilla_special_shake">Vanilla special Shake</string>
+    <string name="price_rs_149">Price Rs.149</string>
+    <string name="a_sip_of_freshness_and_natural_fruits_on_a_hot_day_various_of_flavours_availabe">A sip of freshness and natural fruits on a hot day. Various of Flavours Availabe</string>
+    <string name="size_s_m_l">SIZE S M L</string>
+    <string name="flavour">FLAVOUR</string>
+    <string name="vanilla">VANILLA</string>
+    <string name="chocolate_milkshake">Chocolate MilkShake</string>
+</resources>

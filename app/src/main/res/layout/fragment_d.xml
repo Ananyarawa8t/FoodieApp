@@ -1,0 +1,84 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FragmentD">
+
+    <TextView
+        android:id="@+id/fragtv1"
+        android:layout_width="350dp"
+        android:layout_height="55dp"
+        android:text="@string/vanilla_special_shake"
+        android:gravity="center"
+        android:fontFamily="@font/font5"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:textSize="35sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/round"/>
+    <TextView
+        android:layout_width="350dp"
+        android:layout_height="55dp"
+        android:text="@string/price_rs_149"
+        android:fontFamily="@font/font5"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="35sp"
+        android:layout_marginTop="310dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/price"/>
+
+    <TextView
+        android:id="@+id/fragtv2"
+        android:layout_width="wrap_content"
+        android:layout_height="86dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginRight="20dp"
+        android:fontFamily="@font/font5"
+        android:textColor="#57585A"
+        android:text="@string/a_sip_of_freshness_and_natural_fruits_on_a_hot_day_various_of_flavours_availabe"
+        android:textSize="24sp" />
+
+    <TextView
+        android:layout_width="341dp"
+        android:layout_height="49dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="180dp"
+        android:fontFamily="@font/font5"
+        android:text="@string/size_s_m_l"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:background="@drawable/box"/>
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="49dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="250dp"
+        android:fontFamily="@font/font5"
+        android:text="@string/flavour"
+        android:textColor="@color/black"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/priceid4"
+        android:layout_width="200dp"
+        android:layout_height="55dp"
+        android:layout_marginLeft="20dp"
+        android:layout_gravity="end"
+        android:layout_marginTop="240dp"
+        android:layout_marginRight="20dp"
+        android:background="#D0D9EC"
+        android:fontFamily="@font/font5"
+        android:gravity="center"
+        android:text="@string/vanilla"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+</FrameLayout>

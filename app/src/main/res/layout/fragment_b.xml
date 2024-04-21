@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FragmentB">
+
+    <TextView
+        android:id="@+id/fragtv1"
+        android:layout_width="350dp"
+        android:layout_height="55dp"
+        android:text="@string/chocolate_milkshake"
+        android:gravity="center"
+        android:fontFamily="@font/font5"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:textSize="35sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/round"/>
+
+    <TextView
+        android:id="@+id/fragtv2"
+        android:layout_width="wrap_content"
+        android:layout_height="86dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginRight="20dp"
+        android:fontFamily="@font/font5"
+        android:textColor="#57585A"
+        android:text="A sip of freshness and natural fruits on a hot day. Various of Flavours Availabe "
+        android:textSize="24sp"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:layout_width="341dp"
+        android:layout_height="49dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="180dp"
+        android:fontFamily="@font/font5"
+        android:text="  SIZE       S             M             L "
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:background="@drawable/box"
+        tools:ignore="HardcodedText" />
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="49dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="250dp"
+        android:fontFamily="@font/font5"
+        android:text=" FLAVOUR "
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="55dp"
+        android:layout_marginLeft="20dp"
+        android:layout_gravity="end"
+        android:layout_marginTop="240dp"
+        android:layout_marginRight="20dp"
+        android:background="#7B3F00"
+        android:fontFamily="@font/font5"
+        android:gravity="center"
+        android:text="CHOCOLATE"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
+    <TextView
+        android:id="@+id/priceid2"
+        android:layout_width="350dp"
+        android:layout_height="55dp"
+        android:text=" Price              Rs.149 "
+        android:fontFamily="@font/font5"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="35sp"
+        android:layout_marginTop="310dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/price"
+        tools:ignore="HardcodedText" />
+
+</FrameLayout>

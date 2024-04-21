@@ -1,0 +1,81 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="@string/shakesg"
+        android:background="#E91E63"
+        android:fontFamily="@font/font1"
+        android:textSize="40sp"
+        android:textColor="@color/white"
+         />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+
+        android:text="@string/order_your_favourite_shake"
+        android:textColor="@color/white"
+        android:background="#E91E63"
+        android:fontFamily="@font/font5"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/act2"
+        android:contentDescription="@string/mainimage"/>
+
+    <TextView
+        android:layout_width="500dp"
+        android:layout_height="35sp"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:text="@string/tasty_shake"
+        android:fontFamily="@font/font5"/>
+    <TextView
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:fontFamily="@font/font5"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:text="@string/at_your_doorstep" />
+     <TextView
+         android:layout_width="350dp"
+         android:layout_height="wrap_content"
+         android:layout_marginTop="20dp"
+         android:layout_marginLeft="10dp"
+         android:layout_marginRight="10dp"
+         android:textSize="18sp"
+         android:fontFamily="@font/font5"
+         android:text="@string/select_your_favorite_shakes_according_to_your_taste_and_we_will_dilever_them_to_you_in_no_time_treat_yourself_to_a_tropical_escape_with_our_exotic_mango_shake_elevate_your_shake_game_with_our_customizable_options"/>
+
+    <TextView
+        android:id="@+id/btn1"
+        android:layout_width="300dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:background="@drawable/round"
+        android:gravity="center"
+        android:onClick="order"
+        android:text="@string/order_now"
+        android:textColor="@color/white"
+        android:textSize="35sp"
+        android:textStyle="bold">
+
+    </TextView>
+
+</LinearLayout>
